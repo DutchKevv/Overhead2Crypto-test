@@ -1,0 +1,23 @@
+{
+  "name": "overhead2crypto-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DutchKevv/Overhead2Crypto-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DutchKevv/Overhead2Crypto-test/issues"
+  },
+  "homepage": "https://github.com/DutchKevv/Overhead2Crypto-test#readme",
+  "dependencies": {
+    "overhead2crypto": "file:../Overhead2Crypto"
+  }
+}
