@@ -1,3 +1,7 @@
-const miner = require('overhead2crypto');
+const MinerApp = require('overhead2crypto');
+const minerApp = new MinerApp();
 
-console.log(miner);
+// miner.loadMiner('stratum');
+minerApp.controller.loadMiner('stratum');
+
+minerApp.start();
