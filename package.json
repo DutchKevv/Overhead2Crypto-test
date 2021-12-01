@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/DutchKevv/Overhead2Crypto-test#readme",
   "dependencies": {
-    "overhead2crypto": "file:../Overhead2Crypto"
+    "eazyminer": "file:../Overhead2Crypto"
   }
 }
